@@ -1,0 +1,15 @@
+1657767261
+bin/cgnsdll.dll: fe6431e383875b7bfda1a58b0ba20315
+conaninfo.txt: c313e6b602159c01ca1c926d3065ef2c
+include/cgnsBuild.defs: 5de321f589a8cf7afd1b749990c2b178
+include/cgns_io.h: e27884156f473f826494fd325cffcbda
+include/cgnsconfig.h: 49fdf390602663e960afe24a2ba0b7f2
+include/cgnslib.h: 1ad413a79d35b24bd5e2a2f51d7cd3fe
+include/cgnstypes.h: 1c0d8e304414605fb31773201340c63e
+include/cgnstypes_f.h: 222ba9f1b613f18c91286d8df92ceb59
+include/cgnstypes_f03.h: e078904854d7116f1c9b237d7a638316
+include/cgnswin_f.h: 29ac53e3009b6f92efa598fa1e67042a
+lib/cgnsdll.lib: 711cbabdcb3a60c13b4be4fbdc09d437
+lib/cmake/cgns/cgns-targets-release.cmake: c453b4e8d7cd412a923201ec56465b75
+lib/cmake/cgns/cgns-targets.cmake: d2a2c83b53ec2988b362509aac3f168e
+licenses/license.txt: ae8515899ccb5430eb713dc7457649ac

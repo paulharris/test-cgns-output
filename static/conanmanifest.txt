@@ -1,0 +1,14 @@
+1657766977
+conaninfo.txt: e93a487bb4c1efaaa92d2b0cec2bcb0a
+include/cgnsBuild.defs: 64e92bd3f52e371a9e80053d0f8665f5
+include/cgns_io.h: e27884156f473f826494fd325cffcbda
+include/cgnsconfig.h: 49fdf390602663e960afe24a2ba0b7f2
+include/cgnslib.h: 1ad413a79d35b24bd5e2a2f51d7cd3fe
+include/cgnstypes.h: 1c0d8e304414605fb31773201340c63e
+include/cgnstypes_f.h: 222ba9f1b613f18c91286d8df92ceb59
+include/cgnstypes_f03.h: e078904854d7116f1c9b237d7a638316
+include/cgnswin_f.h: 29ac53e3009b6f92efa598fa1e67042a
+lib/cgns.lib: 0baec21259fd6297bd3cd247c31b9c75
+lib/cmake/cgns/cgns-targets-release.cmake: 6cd6911fcaf401e04d33e04af128381d
+lib/cmake/cgns/cgns-targets.cmake: 25403994f0a202f5db0573a8ecb56d26
+licenses/license.txt: ae8515899ccb5430eb713dc7457649ac

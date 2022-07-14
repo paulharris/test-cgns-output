@@ -1,0 +1,48 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.hack_dont_download_cci=True
+    compiler.runtime=MD
+    compiler.version=17
+    os=Windows
+
+[requires]
+    hdf5/1.12.1:9b85ebeea2cd7fe526cfb284916ec27d4c0057d6
+    zlib/1.2.12:fab8ac12fb25ca3eb6ea9dfae033136194574dc3
+
+[options]
+    parallel=False
+    shared=True
+    with_hdf5=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.hack_dont_download_cci=True
+    compiler.runtime=MD
+    compiler.version=17
+    os=Windows
+
+[full_requires]
+    hdf5/1.12.1:9b85ebeea2cd7fe526cfb284916ec27d4c0057d6
+    zlib/1.2.12:fab8ac12fb25ca3eb6ea9dfae033136194574dc3
+
+[full_options]
+    parallel=False
+    shared=True
+    with_hdf5=True
+    hdf5:enable_cxx=True
+    hdf5:hl=True
+    hdf5:parallel=False
+    hdf5:shared=False
+    hdf5:szip_support=None
+    hdf5:with_zlib=True
+    zlib:shared=False
+
+[recipe_hash]
+    543228ad53f6e023346c3c0e379cd224
+
+[env]
+
